@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../simpleFOC-tests-SSL/lib/DRV8313"
+		}
+	],
+	"settings": {}
+}
